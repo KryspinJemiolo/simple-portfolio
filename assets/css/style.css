@@ -1,0 +1,79 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: url(../img/city.gif) no-repeat;
+    background-size: cover;
+}
+
+.main {
+    max-width: 450px;
+    background: rgba(0, 0, 0, 0.4);
+    padding: 40px;
+    border-radius: 10px;
+    text-align: center;
+    margin: auto;
+    margin-top: 1%;
+    color: white;
+    font-family: monospace;
+    -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+    -khtml-user-select: none; /* Konqueror HTML */
+    -moz-user-select: none; /* Old versions of Firefox */
+    -ms-user-select: none; /* Internet Explorer/Edge */
+    user-select: none; /* Non-prefixed version, currently supported by Chrome, Edge, Opera and Firefox */
+}
+
+.main-pfp {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+
+.main h1 {
+    font-size: 35px;
+    letter-spacing: 4px;
+    font-weight: 800;
+}
+
+.main h5 {
+    font-size: 25px;
+    letter-spacing: 3px;
+    font-weight: 400;
+}
+
+.main p {
+    text-align: center;
+    font-size: 14px;
+    letter-spacing: 2px;
+}
+
+.main span {
+    color: #eb00eb;
+}
+
+.main a {
+    text-decoration: none;
+    color: #eb00eb;
+    font-size: 16px;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+.main li {
+    display: inline-block;
+    margin: 6px;
+    list-style: none;
+}
+
+.main li a {
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+.main li a:hover {
+    color: #eb00eb;
+}
