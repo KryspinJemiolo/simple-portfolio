@@ -49,13 +49,12 @@ body {
 }
 
 .main span {
-    color: #eb00eb;
+    color: #ff00c8;
 }
 
 .main a {
     text-decoration: none;
-    color: #eb00eb;
-    font-size: 16px;
+    color: #ff00c8;
 }
 
 ul {
@@ -76,5 +75,5 @@ ul {
 }
 
 .main li a:hover {
-    color: #eb00eb;
+    color: #ff00c8;
 }
