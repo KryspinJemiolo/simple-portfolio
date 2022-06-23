@@ -1,3 +1,3 @@
 <h1>Simple HTML & CSS portfolio
 
-![yep](https://user-images.githubusercontent.com/100538163/173453079-db5134f8-494e-44b7-939d-b54f032ed8f7.PNG)
+![image](https://user-images.githubusercontent.com/100538163/175396769-44b40885-1612-473b-b46c-f2b71a5b9cbd.png)
